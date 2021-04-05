@@ -1,3 +1,2 @@
-# pgy_proyecto_bootstrap
-
-Proyecto para la asignatura PGY
+# pgy_proyecto1
+Proyecto para la asignatura de PGY
